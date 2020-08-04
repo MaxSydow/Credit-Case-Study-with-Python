@@ -5,7 +5,7 @@ This project is an exploration of data science using Python, pandas, and sciki-l
 
 A case study scenerio involving a hypothetical credit card company client is used.  The client has brought a dataset that includes some domographics and recent financial data (the past 6 months) for a sample of 30,000 account holders. This data is at the credit account level; in other words, there is one row for each account. Rows are labeled by whether in the next month after the 6 month historical data period, and account owner has defaulted - failed to make minimum payment.
 
-The overall goal is to develop a predictive model for whether an account will default next month, given demographics and historical data.
+**The overall goal is to develop a predictive model for whether an account will default next month, given demographics and historical data.**
 
 The original dataset is a modified version from the University of California, Irvine Machine Learning Repository: 
 
@@ -31,8 +31,7 @@ How many columns, rows in data?
 What kind of features are there? (numerical, categorical, boolean)
 
 What does the data look like in these features?
-
-i.e. range of numeric features, frequency of classes for categorical variables
+&nbsp; &nbsp; &nbsp; &nbsp; i.e. range of numeric features, frequency of classes for categorical variables
 
 Are there any missing values?
 
