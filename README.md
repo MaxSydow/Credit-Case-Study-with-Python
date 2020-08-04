@@ -7,9 +7,17 @@ A case study scenerio involving a hypothetical credit card company client is use
 
 The overall goal is to develop a predictive model for whether an account will default next month, given demographics and historical data.
 
-The original dataset is a modified version from the University of California, Irvine Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
-obtained from: http://archive.ics.uci.edu/ml
-The modified data set used in this project can be found at: http://bit.ly/2Hlk5t3
+The original dataset is a modified version from the University of California, Irvine Machine Learning Repository: 
+
+https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
+
+obtained from: 
+
+http://archive.ics.uci.edu/ml
+
+The modified data set used in this project can be found at: 
+
+http://bit.ly/2Hlk5t3
 
 ## Sections
 
@@ -19,10 +27,15 @@ This section covers loading the csv data into Pandas dataframes.  Cleaning null 
 
 ### Pertinent questions to ask in exploration.
 How many columns, rows in data?
+
 What kind of features are there? (numerical, categorical, boolean)
+
 What does the data look like in these features?
+
 i.e. range of numeric features, frequency of classes for categorical variables
+
 Are there any missing values?
+
 
 
 # Applying Scikit-Learn and Model Evaluation
